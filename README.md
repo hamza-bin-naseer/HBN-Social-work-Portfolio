@@ -1,72 +1,104 @@
 # Hamza Bin Naseer — Social Work & Volunteer Portfolio
 
-A complete, responsive, single-page portfolio website built with plain HTML, CSS and JavaScript. It has no external library or internet dependency.
+This is my personal social work and volunteer portfolio website. I designed and developed it to present my journey, leadership experience, community activities, achievements, skills, and contribution to Jehad for Zero Thalassemia (JZT).
 
-## Open the website
+The website uses my real information, photographs, activities, certificates, achievements, contact details, and CV.
 
-Double-click `index.html`, or upload the whole folder to any static host such as GitHub Pages, Netlify, Vercel, Cloudflare Pages or your own hosting account.
+## About the Project
 
-## What is included
+The portfolio highlights my work as:
 
-- Responsive hero section using the supplied portrait
-- About, JZT journey, activities, impact, achievements and skills sections
-- Filterable gallery
-- Certificate placeholders
-- Contact form that prepares a message in the visitor's email app
-- Mobile navigation, scroll reveal effects and impact counters
-- Accessibility labels, keyboard focus states and reduced-motion support
+- General Volunteer — JZT
+- City Coordinator — Gujranwala
+- Zonal Coordinator — Chawinda Zone
+- Social Worker
+- Volunteer Leader
+- Thalassemia Awareness Advocate
 
-## Replace the sample images
+It presents my involvement in thalassemia awareness, blood donation campaigns, student mobilization, volunteer development, patient support, training programmes, institutional coordination, and social-impact partnerships.
 
-Image files are inside `assets/images/`.
+## Website Features
 
-You can replace any SVG placeholder with a JPG, PNG or WebP. If the file extension changes, also update its path in `index.html`.
+- Professional and responsive hero section
+- About Me section
+- Journey with JZT timeline
+- Alternating role photographs and experience cards
+- Major activities and project cards
+- Image sliders for activity photographs
+- Awareness sessions
+- Blood donation camps
+- Induction trainings
+- Patient-support initiatives
+- Student mobilization
+- Partnerships and collaborations
+- Training programmes and achievements
+- Skills and areas of expertise
+- Impact statistics
+- Photo gallery
+- Certificates and recognition
+- Downloadable CV
+- Contact information and email form
+- Mobile-responsive navigation
+- Scroll animations and interactive counters
+- Accessible keyboard focus and reduced-motion support
 
-Suggested image ratio:
+## Technologies Used
 
-- Activity and gallery images: 1600 × 900 pixels
-- Certificates: 1400 × 1000 pixels
-- Hero portrait: keep the provided image or replace `hamza-hero.webp` and `hamza-hero.jpg`
+The website was developed using:
 
-## Add the CV
+- HTML5
+- CSS3
+- JavaScript
 
-1. Put your CV PDF inside `assets/` and name it `Hamza-Bin-Naseer-CV.pdf`.
-2. In `index.html`, find the link with `id="cv-download"` and change it to:
+It is a static website and does not require a database, framework, build command, or external library.
 
-```html
-<a class="btn btn-ghost" href="assets/Hamza-Bin-Naseer-CV.pdf" download>Download CV <span aria-hidden="true">↓</span></a>
+## Project Structure
+
+```text
+portfolio/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── assets/
+│   ├── images/
+│   └── Hamza-Bin-Naseer-CV.pdf
+└── README.md
 ```
 
-3. In `js/script.js`, remove the small block beginning with `// CV placeholder action`.
+## Running the Website Locally
 
-## Update contact information
+Open `index.html` in any modern web browser.
 
-In `index.html`, replace:
+For the best local-development experience, the website can also be opened through a local server such as Visual Studio Code Live Server.
 
-- `your.email@example.com`
-- `+92 XXX XXXXXXX`
-- `linkedin.com/in/your-profile`
+## Contact Form
 
-In `js/script.js`, replace:
+The contact form prepares an email using the information entered by the visitor. The visitor can review the prepared message and send it through the configured email service.
 
-```js
-const portfolioEmail = 'your.email@example.com';
-```
+The website does not currently store form submissions in a database.
 
-## Publish for free
+## Deployment
 
-### GitHub Pages
+Because this is a static website, it can be hosted on:
 
-Create a repository, upload the files, open **Settings → Pages**, and publish from the main branch.
+- Netlify
+- GitHub Pages
+- Vercel
+- Cloudflare Pages
+- Any standard web-hosting service
 
-### Netlify
+No build command is required. The complete project folder can be uploaded directly to a static hosting platform.
 
-Drag the entire extracted folder into Netlify's manual deploy area.
+## Purpose
 
-### Vercel
+This portfolio was created to professionally present my social work journey to NGOs, volunteer organizations, welfare institutions, youth networks, healthcare initiatives, and potential collaborators.
 
-Create a new project and import the folder/repository. No build command is required because this is a static site.
+My goal is to support community welfare, promote thalassemia awareness and prevention, encourage voluntary blood donation, mobilize young people, and contribute toward a Thalassemia-Free Pakistan.
 
-## Important
+## Ownership
 
-The contact form is a front-end form. It opens the visitor's email application. A serverless form service can be connected later if you want messages to be stored online.
+Designed and developed by **Hamza Bin Naseer**.
+
+All personal information, photographs, activities, achievements, certificates, and portfolio content included in this project belong to Hamza Bin Naseer unless otherwise credited.
