@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="t d">
+<title id="t">Induction Trainings</title><desc id="d">Volunteer orientation</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff9f7"/><stop offset="1" stop-color="#edf3fb"/></linearGradient>
+  <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bb0a0a"/><stop offset="1" stop-color="#7f0612"/></linearGradient>
+</defs>
+<rect width="800" height="520" fill="url(#bg)"/>
+<circle cx="680" cy="75" r="150" fill="#0d2b55" opacity=".06"/>
+<circle cx="90" cy="470" r="165" fill="#b30707" opacity=".06"/>
+<rect x="68" y="68" width="664" height="384" rx="34" fill="#fff" stroke="#dfe6ef" stroke-width="3"/>
+<circle cx="400" cy="210" r="86" fill="url(#orb)"/>
+<g transform="translate(326 136)" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><path d="M40 46h28c8 0 12 4 12 12v48c0-8-4-12-12-12H40zM108 46H80v60c0-8 4-12 12-12h16z"/><path d="M48 58h18M48 68h18M92 58h10M92 68h10"/></g>
+<text x="400" y="340" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#0d2b55">Induction Trainings</text>
+<text x="400" y="382" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#5d6b7e">Volunteer orientation</text>
+<text x="400" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2" fill="#9b1c24">REPLACE WITH YOUR PHOTO</text>
+</svg>

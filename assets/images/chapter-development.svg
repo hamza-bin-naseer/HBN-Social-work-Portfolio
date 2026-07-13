@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="t d">
+<title id="t">Chapter Development</title><desc id="d">Student volunteer community</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff9f7"/><stop offset="1" stop-color="#edf3fb"/></linearGradient>
+  <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bb0a0a"/><stop offset="1" stop-color="#7f0612"/></linearGradient>
+</defs>
+<rect width="800" height="520" fill="url(#bg)"/>
+<circle cx="680" cy="75" r="150" fill="#0d2b55" opacity=".06"/>
+<circle cx="90" cy="470" r="165" fill="#b30707" opacity=".06"/>
+<rect x="68" y="68" width="664" height="384" rx="34" fill="#fff" stroke="#dfe6ef" stroke-width="3"/>
+<circle cx="400" cy="210" r="86" fill="url(#orb)"/>
+<g transform="translate(326 136)" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><path d="M52 106V42h40v64M42 106h60M62 54h8m12 0h8M62 68h8m12 0h8M62 82h8m12 0h8M72 106V90h10v16"/></g>
+<text x="400" y="340" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#0d2b55">Chapter Development</text>
+<text x="400" y="382" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#5d6b7e">Student volunteer community</text>
+<text x="400" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2" fill="#9b1c24">REPLACE WITH YOUR PHOTO</text>
+</svg>

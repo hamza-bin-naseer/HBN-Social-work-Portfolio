@@ -1,0 +1,2 @@
+Place your final CV PDF in this folder and name it: Hamza-Bin-Naseer-CV.pdf
+See README.md for the two small code changes required.
